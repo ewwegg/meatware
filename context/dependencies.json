@@ -1,0 +1,165 @@
+{
+  "version": "0.1.0",
+  "generated": "2023-09-03",
+  "description": "Dependency tracking system for the Meatware framework",
+  "dependencies": [
+    {
+      "source": "/knowledge/architecture/navigation-system.md",
+      "dependencies": [
+        {
+          "target": "/docs/navigation-metadata.md",
+          "type": "reference",
+          "description": "Details of navigation metadata structure"
+        },
+        {
+          "target": "/docs/standard-navigation-sections.md",
+          "type": "reference",
+          "description": "Standard sections for navigation"
+        }
+      ]
+    },
+    {
+      "source": "/knowledge/architecture/cross-referencing.md",
+      "dependencies": [
+        {
+          "target": "/knowledge/architecture/navigation-system.md",
+          "type": "concept",
+          "description": "Architectural foundation for the cross-referencing system"
+        },
+        {
+          "target": "/docs/cross-referencing.md",
+          "type": "reference",
+          "description": "Implementation details of cross-referencing"
+        }
+      ]
+    },
+    {
+      "source": "/specification/navigation/self-navigation-system.md",
+      "dependencies": [
+        {
+          "target": "/knowledge/architecture/navigation-system.md",
+          "type": "concept",
+          "description": "Architectural overview of the navigation system"
+        },
+        {
+          "target": "/docs/navigation-metadata.md",
+          "type": "reference",
+          "description": "Metadata structure for navigation"
+        },
+        {
+          "target": "/docs/standard-navigation-sections.md",
+          "type": "reference",
+          "description": "Standard sections for navigation"
+        }
+      ]
+    },
+    {
+      "source": "/specification/navigation/cross-referencing.md",
+      "dependencies": [
+        {
+          "target": "/knowledge/architecture/cross-referencing.md",
+          "type": "concept",
+          "description": "Architectural overview of the cross-referencing system"
+        },
+        {
+          "target": "/docs/cross-referencing.md",
+          "type": "reference",
+          "description": "Implementation details of cross-referencing"
+        },
+        {
+          "target": "/specification/navigation/self-navigation-system.md",
+          "type": "requirement",
+          "description": "Navigation system that cross-referencing builds upon"
+        }
+      ]
+    },
+    {
+      "source": "/project-implementation/implementation-log/self-navigation-system.md",
+      "dependencies": [
+        {
+          "target": "/specification/navigation/self-navigation-system.md",
+          "type": "requirement",
+          "description": "Specification being implemented"
+        },
+        {
+          "target": "/knowledge/architecture/navigation-system.md",
+          "type": "concept",
+          "description": "Architectural foundation for implementation"
+        }
+      ]
+    },
+    {
+      "source": "/project-implementation/implementation-log/navigation-testing.md",
+      "dependencies": [
+        {
+          "target": "/project-implementation/implementation-log/self-navigation-system.md",
+          "type": "component",
+          "description": "Implementation being tested"
+        }
+      ]
+    },
+    {
+      "source": "/docs/navigation-metadata.md",
+      "dependencies": [
+        {
+          "target": "/docs/metadata-format-specifications.md",
+          "type": "reference",
+          "description": "Base metadata format that navigation metadata extends"
+        }
+      ]
+    },
+    {
+      "source": "/docs/standard-navigation-sections.md",
+      "dependencies": [
+        {
+          "target": "/docs/navigation-metadata.md",
+          "type": "reference",
+          "description": "Navigation metadata that sections reference"
+        },
+        {
+          "target": "/docs/documentation-standards.md",
+          "type": "reference",
+          "description": "Documentation standards that sections follow"
+        }
+      ]
+    },
+    {
+      "source": "/docs/cross-referencing.md",
+      "dependencies": [
+        {
+          "target": "/docs/navigation-metadata.md",
+          "type": "reference",
+          "description": "Navigation metadata that cross-referencing extends"
+        },
+        {
+          "target": "/docs/standard-navigation-sections.md",
+          "type": "reference",
+          "description": "Standard sections that cross-referencing uses"
+        }
+      ]
+    }
+  ],
+  "dependencyTypes": {
+    "concept": "Foundational concept required for understanding",
+    "requirement": "Formal requirement that must be satisfied",
+    "reference": "Referenced document providing supporting information",
+    "component": "Component that this component depends on",
+    "resource": "External resource or reference",
+    "constraint": "Limitation affecting this component"
+  },
+  "schema": {
+    "source": "Absolute path to the source document",
+    "dependencies": [
+      {
+        "target": "Absolute path to the target document",
+        "type": "Type of dependency (concept, requirement, reference, component, resource, constraint)",
+        "description": "Description of the dependency relationship"
+      }
+    ]
+  },
+  "notes": [
+    "This file is auto-generated based on document metadata and content",
+    "Manual updates may be overwritten by the generation process",
+    "To add or modify dependencies, update the source documents instead"
+  ]
+}

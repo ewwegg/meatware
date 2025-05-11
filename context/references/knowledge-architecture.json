@@ -1,0 +1,117 @@
+{
+  "version": "0.1.0",
+  "generated": "2023-09-03",
+  "description": "Reference index for architecture knowledge documents",
+  "category": "knowledge",
+  "subcategory": "architecture",
+  "references": [
+    {
+      "source": "/knowledge/architecture/navigation-system.md",
+      "references": [
+        {
+          "target": "/docs/navigation-metadata.md",
+          "type": "reference",
+          "description": "Details of navigation metadata structure",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Prerequisites section",
+          "lineNumber": 38
+        },
+        {
+          "target": "/docs/standard-navigation-sections.md",
+          "type": "reference",
+          "description": "Standard sections for navigation",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Prerequisites section",
+          "lineNumber": 39
+        },
+        {
+          "target": "/specification/navigation/self-navigation-system.md",
+          "type": "specification",
+          "description": "Formal specification of the navigation system",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Next Steps section",
+          "lineNumber": 184
+        },
+        {
+          "target": "/knowledge/architecture/cross-referencing.md",
+          "type": "related",
+          "description": "Architecture of the complementary cross-referencing system",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Next Steps section",
+          "lineNumber": 185
+        }
+      ]
+    },
+    {
+      "source": "/knowledge/architecture/cross-referencing.md",
+      "references": [
+        {
+          "target": "/knowledge/architecture/navigation-system.md",
+          "type": "prerequisite",
+          "description": "Architecture of the complementary navigation system",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Prerequisites section",
+          "lineNumber": 37
+        },
+        {
+          "target": "/docs/cross-referencing.md",
+          "type": "reference",
+          "description": "Implementation details of the cross-referencing system",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Prerequisites section",
+          "lineNumber": 38
+        },
+        {
+          "target": "/specification/navigation/cross-referencing.md",
+          "type": "specification",
+          "description": "Formal specification of the cross-referencing system",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Next Steps section",
+          "lineNumber": 201
+        },
+        {
+          "target": "/docs/relationship-visualization.md",
+          "type": "related",
+          "description": "How to visualize document relationships",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Next Steps section",
+          "lineNumber": 202
+        }
+      ]
+    }
+  ],
+  "referenceTypes": {
+    "prerequisite": "Document that should be read before this one",
+    "reference": "Document referenced for supporting information",
+    "specification": "Specification document related to this knowledge",
+    "implementation": "Implementation document related to this knowledge",
+    "related": "Document with related information"
+  },
+  "schema": {
+    "source": "Absolute path to the source document",
+    "references": [
+      {
+        "target": "Absolute path to the target document",
+        "type": "Type of reference relationship",
+        "description": "Description of the reference relationship",
+        "bidirectional": "Whether the reference is bidirectional",
+        "location": "Where in the document the reference appears (frontmatter, body, footer)",
+        "context": "The context in which the reference appears",
+        "lineNumber": "Approximate line number of the reference"
+      }
+    ]
+  },
+  "notes": [
+    "This file is auto-generated based on document content analysis",
+    "Line numbers are approximate and may change as documents are edited",
+    "All references should be bidirectional for proper navigation"
+  ]
+}

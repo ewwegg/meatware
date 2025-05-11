@@ -1,0 +1,195 @@
+{
+  "version": "0.1.0",
+  "generated": "2023-09-03",
+  "description": "Reference index for documentation standards",
+  "category": "docs",
+  "subcategory": "standards",
+  "references": [
+    {
+      "source": "/docs/navigation-metadata.md",
+      "references": [
+        {
+          "target": "/docs/metadata-format-specifications.md",
+          "type": "reference",
+          "description": "Base metadata format specifications",
+          "bidirectional": true,
+          "location": "frontmatter",
+          "context": "related_files",
+          "lineNumber": 15
+        },
+        {
+          "target": "/docs/standard-navigation-sections.md",
+          "type": "related",
+          "description": "Standard sections that use this metadata",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Related Documents section",
+          "lineNumber": 294
+        },
+        {
+          "target": "/knowledge/architecture/navigation-system.md",
+          "type": "knowledge",
+          "description": "Architectural overview using this metadata",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Related Documents section",
+          "lineNumber": 295
+        }
+      ]
+    },
+    {
+      "source": "/docs/standard-navigation-sections.md",
+      "references": [
+        {
+          "target": "/docs/navigation-metadata.md",
+          "type": "reference",
+          "description": "Metadata that these sections reference",
+          "bidirectional": true,
+          "location": "frontmatter",
+          "context": "prerequisite_files",
+          "lineNumber": 13
+        },
+        {
+          "target": "/docs/documentation-standards.md",
+          "type": "reference",
+          "description": "Documentation standards these sections follow",
+          "bidirectional": true,
+          "location": "frontmatter",
+          "context": "related_files",
+          "lineNumber": 15
+        },
+        {
+          "target": "/knowledge/architecture/navigation-system.md",
+          "type": "knowledge",
+          "description": "Architectural overview using these sections",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Related Documents section",
+          "lineNumber": 162
+        }
+      ]
+    },
+    {
+      "source": "/docs/cross-referencing.md",
+      "references": [
+        {
+          "target": "/docs/navigation-metadata.md",
+          "type": "prerequisite",
+          "description": "Navigation metadata used by cross-referencing",
+          "bidirectional": true,
+          "location": "frontmatter",
+          "context": "prerequisite_files",
+          "lineNumber": 13
+        },
+        {
+          "target": "/docs/standard-navigation-sections.md",
+          "type": "prerequisite",
+          "description": "Navigation sections used by cross-referencing",
+          "bidirectional": true,
+          "location": "frontmatter",
+          "context": "prerequisite_files",
+          "lineNumber": 13
+        },
+        {
+          "target": "/docs/metadata-format-specifications.md",
+          "type": "related",
+          "description": "Overall metadata format specifications",
+          "bidirectional": true,
+          "location": "frontmatter",
+          "context": "related_files",
+          "lineNumber": 15
+        },
+        {
+          "target": "/knowledge/architecture/cross-referencing.md",
+          "type": "knowledge",
+          "description": "Architectural overview of cross-referencing",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Next Steps section",
+          "lineNumber": 211
+        },
+        {
+          "target": "/docs/relationship-visualization.md",
+          "type": "related",
+          "description": "How to visualize document relationships",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Next Steps section",
+          "lineNumber": 210
+        }
+      ]
+    },
+    {
+      "source": "/docs/metadata-format-specifications.md",
+      "references": [
+        {
+          "target": "/docs/documentation-standards.md",
+          "type": "related",
+          "description": "Documentation standards these specifications follow",
+          "bidirectional": true,
+          "location": "frontmatter",
+          "context": "related_files",
+          "lineNumber": 15
+        },
+        {
+          "target": "/docs/navigation-metadata.md",
+          "type": "extension",
+          "description": "Navigation-specific extension of these specifications",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Related Documents section",
+          "lineNumber": 405
+        }
+      ]
+    },
+    {
+      "source": "/docs/documentation-standards.md",
+      "references": [
+        {
+          "target": "/docs/metadata-format-specifications.md",
+          "type": "related",
+          "description": "Metadata format that follows these standards",
+          "bidirectional": true,
+          "location": "frontmatter",
+          "context": "related_files",
+          "lineNumber": 15
+        },
+        {
+          "target": "/docs/standard-navigation-sections.md",
+          "type": "related",
+          "description": "Navigation sections that follow these standards",
+          "bidirectional": true,
+          "location": "body",
+          "context": "Related Documents section",
+          "lineNumber": 298
+        }
+      ]
+    }
+  ],
+  "referenceTypes": {
+    "prerequisite": "Document that should be read before this one",
+    "reference": "Document referenced for supporting information",
+    "knowledge": "Knowledge document providing conceptual foundation",
+    "related": "Document with related information",
+    "extension": "Document that extends the concepts in this one"
+  },
+  "schema": {
+    "source": "Absolute path to the source document",
+    "references": [
+      {
+        "target": "Absolute path to the target document",
+        "type": "Type of reference relationship",
+        "description": "Description of the reference relationship",
+        "bidirectional": "Whether the reference is bidirectional",
+        "location": "Where in the document the reference appears (frontmatter, body, footer)",
+        "context": "The context in which the reference appears",
+        "lineNumber": "Approximate line number of the reference"
+      }
+    ]
+  },
+  "notes": [
+    "This file is auto-generated based on document content analysis",
+    "Line numbers are approximate and may change as documents are edited",
+    "All references should be bidirectional for proper navigation"
+  ]
+}

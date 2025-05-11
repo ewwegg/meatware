@@ -1,0 +1,42 @@
+{
+  "version": "0.1.0",
+  "generated": "2023-09-03",
+  "description": "Master index of all reference indexes in the Meatware framework",
+  "indexes": [
+    {
+      "path": "/context/references/knowledge-architecture.json",
+      "description": "References for architecture knowledge documents",
+      "documentCount": 2,
+      "referenceCount": 8
+    },
+    {
+      "path": "/context/references/specification-navigation.json",
+      "description": "References for navigation specifications",
+      "documentCount": 2,
+      "referenceCount": 10
+    },
+    {
+      "path": "/context/references/implementation-navigation.json",
+      "description": "References for navigation implementation documents",
+      "documentCount": 2,
+      "referenceCount": 6
+    },
+    {
+      "path": "/context/references/docs-standards.json",
+      "description": "References for documentation standards",
+      "documentCount": 5,
+      "referenceCount": 15
+    }
+  ],
+  "schema": {
+    "path": "Path to the reference index file",
+    "description": "Description of the index contents",
+    "documentCount": "Number of documents tracked in this index",
+    "referenceCount": "Total number of references tracked in this index"
+  },
+  "notes": [
+    "This file is auto-generated based on the available reference indexes",
+    "Each reference index contains detailed information about references between documents",
+    "Reference indexes are organized by document category and purpose"
+  ]
+}
