@@ -1,0 +1,75 @@
+{
+  "index_type": "categories",
+  "index_name": "changelog",
+  "created": "2025-05-11",
+  "updated": "2025-05-11",
+  "count": 3,
+  "entries": [
+    {
+      "title": "Changelog Directory Guide",
+      "path": "/knowledge/changelog/README.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "",
+      "tags": [],
+      "authors": [],
+      "navigation_priority": "medium",
+      "navigation_keywords": [
+        "changelog",
+        "history",
+        "directory",
+        "guide"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "changelog"
+    },
+    {
+      "title": "2023-09-04: Changelog System Introduction",
+      "path": "/knowledge/changelog/2023-09-04-changelog-system-introduction.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "approved",
+      "summary": "Introduction of the changelog system for tracking significant changes, decisions, and evolution of the framework",
+      "tags": [
+        "changelog",
+        "documentation",
+        "knowledge management"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "changelog",
+        "history",
+        "documentation",
+        "introduction"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "changelog"
+    },
+    {
+      "title": "Changelog System Index",
+      "path": "/knowledge/changelog/index.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "",
+      "tags": [],
+      "authors": [],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "changelog",
+        "changes",
+        "history",
+        "decisions"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "changelog"
+    }
+  ]
+}

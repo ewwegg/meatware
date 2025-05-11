@@ -1,0 +1,526 @@
+{
+  "index_type": "search",
+  "index_name": "recent",
+  "created": "2025-05-11",
+  "updated": "2025-05-11",
+  "count": 20,
+  "entries": [
+    {
+      "title": "Convention Title",
+      "path": "/knowledge/conventions/_template.md",
+      "created": "YYYY-MM-DD",
+      "updated": "YYYY-MM-DD",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "Conventions for [specific topic] including standards, patterns, and best practices (max 150 chars)",
+      "tags": [
+        "convention",
+        "tag2",
+        "tag3"
+      ],
+      "authors": [
+        "Author Name"
+      ],
+      "navigation_priority": "high|medium|low",
+      "navigation_keywords": [
+        "convention",
+        "standard",
+        "practice",
+        "keyword4"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "convention"
+    },
+    {
+      "title": "Creating and Using Clarity Documentation",
+      "path": "/knowledge/conventions/creating-clarity-documentation.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Step-by-step guide for creating and effectively using clarity documentation to capture questions, answers, and insights",
+      "tags": [
+        "clarity",
+        "documentation",
+        "question-answer",
+        "insights",
+        "knowledge management"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "clarity",
+        "documentation",
+        "questions",
+        "answers",
+        "insights",
+        "guide"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "convention"
+    },
+    {
+      "title": "Metadata Format Reference",
+      "path": "/knowledge/conventions/metadata-format-reference.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Reference documentation for metadata formats with detailed specifications and field definitions used throughout the framework",
+      "tags": [
+        "metadata",
+        "yaml",
+        "frontmatter",
+        "convention",
+        "navigation",
+        "reference"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "metadata",
+        "yaml",
+        "frontmatter",
+        "format",
+        "fields",
+        "navigation"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "convention"
+    },
+    {
+      "title": "Knowledge Directory Guide",
+      "path": "/knowledge/README.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "",
+      "tags": [],
+      "authors": [],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "knowledge",
+        "structure",
+        "organization",
+        "documentation"
+      ],
+      "category": "knowledge",
+      "knowledge_type": ""
+    },
+    {
+      "title": "Integration Title",
+      "path": "/knowledge/integrations/_template.md",
+      "created": "YYYY-MM-DD",
+      "updated": "YYYY-MM-DD",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "Integration documentation for [external system] including connection details, authentication, and usage patterns (max 150 chars)",
+      "tags": [
+        "integration",
+        "tag2",
+        "tag3"
+      ],
+      "authors": [
+        "Author Name"
+      ],
+      "navigation_priority": "high|medium|low",
+      "navigation_keywords": [
+        "integration",
+        "external",
+        "system",
+        "keyword4"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "integration"
+    },
+    {
+      "title": "Changelog Directory Guide",
+      "path": "/knowledge/changelog/README.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "",
+      "tags": [],
+      "authors": [],
+      "navigation_priority": "medium",
+      "navigation_keywords": [
+        "changelog",
+        "history",
+        "directory",
+        "guide"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "changelog"
+    },
+    {
+      "title": "2023-09-04: Changelog System Introduction",
+      "path": "/knowledge/changelog/2023-09-04-changelog-system-introduction.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "approved",
+      "summary": "Introduction of the changelog system for tracking significant changes, decisions, and evolution of the framework",
+      "tags": [
+        "changelog",
+        "documentation",
+        "knowledge management"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "changelog",
+        "history",
+        "documentation",
+        "introduction"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "changelog"
+    },
+    {
+      "title": "Changelog System Index",
+      "path": "/knowledge/changelog/index.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "",
+      "tags": [],
+      "authors": [],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "changelog",
+        "changes",
+        "history",
+        "decisions"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "changelog"
+    },
+    {
+      "title": "Clarity: Framework Directory Organization",
+      "path": "/knowledge/clarity/framework-structure/directory-organization.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Questions and answers about the Meatware framework's directory organization, capturing insights about structure and hierarchy design",
+      "tags": [
+        "directory structure",
+        "organization",
+        "framework architecture",
+        "folder hierarchy"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "directory",
+        "folder",
+        "structure",
+        "organization",
+        "hierarchy"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "clarity"
+    },
+    {
+      "title": "Clarity: Core Framework Philosophy",
+      "path": "/knowledge/clarity/framework-structure/core-philosophy.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Questions and answers about the Meatware framework's core philosophical principles, capturing insights about guiding concepts and values",
+      "tags": [
+        "philosophy",
+        "core concepts",
+        "principles",
+        "transparency",
+        "knowledge structure"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "philosophy",
+        "principles",
+        "concepts",
+        "transparency",
+        "structure"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "clarity"
+    },
+    {
+      "title": "Clarity Documentation Index",
+      "path": "/knowledge/clarity/index.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Central index of clarity documentation capturing questions, answers, and insights about various aspects of the Meatware framework",
+      "tags": [
+        "clarity",
+        "index",
+        "knowledge management",
+        "question-answer",
+        "documentation"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "clarity",
+        "questions",
+        "answers",
+        "understanding",
+        "knowledge base"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "index"
+    },
+    {
+      "title": "Clarity: AI Collaboration Patterns",
+      "path": "/knowledge/clarity/usage-patterns/ai-collaboration.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Questions and answers about effective collaboration patterns between humans and AI tools within the Meatware framework",
+      "tags": [
+        "ai collaboration",
+        "interaction patterns",
+        "workflows",
+        "prompting",
+        "context management"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "ai",
+        "collaboration",
+        "interaction",
+        "prompting",
+        "context"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "clarity"
+    },
+    {
+      "title": "Clarity: Package Architecture",
+      "path": "/knowledge/clarity/technical-implementation/package-architecture.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Questions and answers about the Meatware framework's package architecture, capturing insights about structure and deployment strategy",
+      "tags": [
+        "package",
+        "architecture",
+        "npm",
+        "deployment",
+        "structure"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "medium",
+      "navigation_keywords": [
+        "package",
+        "npm",
+        "architecture",
+        "deployment",
+        "installation"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "clarity"
+    },
+    {
+      "title": "Knowledge Directory Index",
+      "path": "/knowledge/index.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "",
+      "tags": [],
+      "authors": [],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "knowledge",
+        "index",
+        "directory",
+        "organization"
+      ],
+      "category": "knowledge",
+      "knowledge_type": ""
+    },
+    {
+      "title": "Architecture Knowledge Title",
+      "path": "/knowledge/architecture/_template.md",
+      "created": "YYYY-MM-DD",
+      "updated": "YYYY-MM-DD",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "Architectural overview of [component] including design principles, components, and relationships (max 150 chars)",
+      "tags": [
+        "architecture",
+        "tag2",
+        "tag3"
+      ],
+      "authors": [
+        "Author Name"
+      ],
+      "navigation_priority": "high|medium|low",
+      "navigation_keywords": [
+        "architecture",
+        "design",
+        "structure",
+        "keyword4"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "architecture"
+    },
+    {
+      "title": "Knowledge Management System",
+      "path": "/knowledge/architecture/knowledge-management-system.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Architectural overview of the Knowledge Management System that organizes and structures information in the Meatware framework",
+      "tags": [
+        "knowledge management",
+        "architecture",
+        "categorization",
+        "documentation",
+        "organization"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "knowledge",
+        "management",
+        "categorization",
+        "organization",
+        "documentation"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "architecture"
+    },
+    {
+      "title": "Architecture Knowledge Index",
+      "path": "/knowledge/architecture/index.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "",
+      "tags": [],
+      "authors": [],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "architecture",
+        "design",
+        "structure",
+        "patterns"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "architecture"
+    },
+    {
+      "title": "Cross-Referencing Architecture",
+      "path": "/knowledge/architecture/cross-referencing.md",
+      "created": "2023-09-03",
+      "updated": "2023-09-03",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "Architectural overview of the cross-referencing system that connects documents throughout the framework.",
+      "tags": [
+        "cross-referencing",
+        "architecture",
+        "linking",
+        "relationships"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "cross-reference",
+        "architecture",
+        "linking",
+        "relationships"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "architecture"
+    },
+    {
+      "title": "Self-Navigation System Architecture",
+      "path": "/knowledge/architecture/navigation-system.md",
+      "created": "2023-09-02",
+      "updated": "2023-09-02",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "Architectural overview of the self-navigation system that enables AI tools to navigate the framework independently.",
+      "tags": [
+        "navigation",
+        "architecture",
+        "metadata",
+        "self-guiding"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "navigation",
+        "metadata",
+        "self-guiding",
+        "frontmatter"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "architecture"
+    },
+    {
+      "title": "API Knowledge Title",
+      "path": "/knowledge/api/_template.md",
+      "created": "YYYY-MM-DD",
+      "updated": "YYYY-MM-DD",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "API documentation for [API name] including endpoints, parameters, and usage examples (max 150 chars)",
+      "tags": [
+        "api",
+        "tag2",
+        "tag3"
+      ],
+      "authors": [
+        "Author Name"
+      ],
+      "navigation_priority": "high|medium|low",
+      "navigation_keywords": [
+        "api",
+        "endpoint",
+        "keyword3"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "api"
+    }
+  ]
+}

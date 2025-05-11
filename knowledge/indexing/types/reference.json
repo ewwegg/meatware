@@ -1,0 +1,40 @@
+{
+  "index_type": "types",
+  "index_name": "reference",
+  "created": "2025-05-11",
+  "updated": "2025-05-11",
+  "count": 1,
+  "entries": [
+    {
+      "title": "Metadata Format Reference",
+      "path": "/knowledge/conventions/metadata-format-reference.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Reference documentation for metadata formats with detailed specifications and field definitions used throughout the framework",
+      "tags": [
+        "metadata",
+        "yaml",
+        "frontmatter",
+        "convention",
+        "navigation",
+        "reference"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "metadata",
+        "yaml",
+        "frontmatter",
+        "format",
+        "fields",
+        "navigation"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "convention"
+    }
+  ]
+}

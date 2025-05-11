@@ -1,0 +1,112 @@
+{
+  "index_type": "types",
+  "index_name": "conceptual",
+  "created": "2025-05-11",
+  "updated": "2025-05-11",
+  "count": 4,
+  "entries": [
+    {
+      "title": "Knowledge Management System",
+      "path": "/knowledge/architecture/knowledge-management-system.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Architectural overview of the Knowledge Management System that organizes and structures information in the Meatware framework",
+      "tags": [
+        "knowledge management",
+        "architecture",
+        "categorization",
+        "documentation",
+        "organization"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "knowledge",
+        "management",
+        "categorization",
+        "organization",
+        "documentation"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "architecture"
+    },
+    {
+      "title": "Architecture Knowledge Index",
+      "path": "/knowledge/architecture/index.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "",
+      "tags": [],
+      "authors": [],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "architecture",
+        "design",
+        "structure",
+        "patterns"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "architecture"
+    },
+    {
+      "title": "Self-Navigation System Architecture",
+      "path": "/knowledge/architecture/navigation-system.md",
+      "created": "2023-09-02",
+      "updated": "2023-09-02",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "Architectural overview of the self-navigation system that enables AI tools to navigate the framework independently.",
+      "tags": [
+        "navigation",
+        "architecture",
+        "metadata",
+        "self-guiding"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "navigation",
+        "metadata",
+        "self-guiding",
+        "frontmatter"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "architecture"
+    },
+    {
+      "title": "Cross-Referencing Architecture",
+      "path": "/knowledge/architecture/cross-referencing.md",
+      "created": "2023-09-03",
+      "updated": "2023-09-03",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "Architectural overview of the cross-referencing system that connects documents throughout the framework.",
+      "tags": [
+        "cross-referencing",
+        "architecture",
+        "linking",
+        "relationships"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "cross-reference",
+        "architecture",
+        "linking",
+        "relationships"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "architecture"
+    }
+  ]
+}

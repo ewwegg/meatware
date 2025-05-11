@@ -1,0 +1,34 @@
+{
+  "index_type": "categories",
+  "index_name": "api",
+  "created": "2025-05-11",
+  "updated": "2025-05-11",
+  "count": 1,
+  "entries": [
+    {
+      "title": "API Knowledge Title",
+      "path": "/knowledge/api/_template.md",
+      "created": "YYYY-MM-DD",
+      "updated": "YYYY-MM-DD",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "API documentation for [API name] including endpoints, parameters, and usage examples (max 150 chars)",
+      "tags": [
+        "api",
+        "tag2",
+        "tag3"
+      ],
+      "authors": [
+        "Author Name"
+      ],
+      "navigation_priority": "high|medium|low",
+      "navigation_keywords": [
+        "api",
+        "endpoint",
+        "keyword3"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "api"
+    }
+  ]
+}

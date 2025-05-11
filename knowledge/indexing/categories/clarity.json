@@ -1,0 +1,124 @@
+{
+  "index_type": "categories",
+  "index_name": "clarity",
+  "created": "2025-05-11",
+  "updated": "2025-05-11",
+  "count": 4,
+  "entries": [
+    {
+      "title": "Clarity: Framework Directory Organization",
+      "path": "/knowledge/clarity/framework-structure/directory-organization.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Questions and answers about the Meatware framework's directory organization, capturing insights about structure and hierarchy design",
+      "tags": [
+        "directory structure",
+        "organization",
+        "framework architecture",
+        "folder hierarchy"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "directory",
+        "folder",
+        "structure",
+        "organization",
+        "hierarchy"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "clarity"
+    },
+    {
+      "title": "Clarity: Core Framework Philosophy",
+      "path": "/knowledge/clarity/framework-structure/core-philosophy.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Questions and answers about the Meatware framework's core philosophical principles, capturing insights about guiding concepts and values",
+      "tags": [
+        "philosophy",
+        "core concepts",
+        "principles",
+        "transparency",
+        "knowledge structure"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "philosophy",
+        "principles",
+        "concepts",
+        "transparency",
+        "structure"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "clarity"
+    },
+    {
+      "title": "Clarity: AI Collaboration Patterns",
+      "path": "/knowledge/clarity/usage-patterns/ai-collaboration.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Questions and answers about effective collaboration patterns between humans and AI tools within the Meatware framework",
+      "tags": [
+        "ai collaboration",
+        "interaction patterns",
+        "workflows",
+        "prompting",
+        "context management"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "ai",
+        "collaboration",
+        "interaction",
+        "prompting",
+        "context"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "clarity"
+    },
+    {
+      "title": "Clarity: Package Architecture",
+      "path": "/knowledge/clarity/technical-implementation/package-architecture.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Questions and answers about the Meatware framework's package architecture, capturing insights about structure and deployment strategy",
+      "tags": [
+        "package",
+        "architecture",
+        "npm",
+        "deployment",
+        "structure"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "medium",
+      "navigation_keywords": [
+        "package",
+        "npm",
+        "architecture",
+        "deployment",
+        "installation"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "clarity"
+    }
+  ]
+}

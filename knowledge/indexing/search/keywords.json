@@ -1,0 +1,570 @@
+{
+  "index_type": "search",
+  "index_name": "keywords",
+  "created": "2025-05-11",
+  "updated": "2025-05-11",
+  "count": 58,
+  "entries": {
+    "convention": [
+      {
+        "title": "Convention Title",
+        "path": "/knowledge/conventions/_template.md",
+        "summary": "Conventions for [specific topic] including standards, patterns, and best practices (max 150 chars)"
+      }
+    ],
+    "standard": [
+      {
+        "title": "Convention Title",
+        "path": "/knowledge/conventions/_template.md",
+        "summary": "Conventions for [specific topic] including standards, patterns, and best practices (max 150 chars)"
+      }
+    ],
+    "practice": [
+      {
+        "title": "Convention Title",
+        "path": "/knowledge/conventions/_template.md",
+        "summary": "Conventions for [specific topic] including standards, patterns, and best practices (max 150 chars)"
+      }
+    ],
+    "keyword4": [
+      {
+        "title": "Convention Title",
+        "path": "/knowledge/conventions/_template.md",
+        "summary": "Conventions for [specific topic] including standards, patterns, and best practices (max 150 chars)"
+      },
+      {
+        "title": "Integration Title",
+        "path": "/knowledge/integrations/_template.md",
+        "summary": "Integration documentation for [external system] including connection details, authentication, and usage patterns (max 150 chars)"
+      },
+      {
+        "title": "Architecture Knowledge Title",
+        "path": "/knowledge/architecture/_template.md",
+        "summary": "Architectural overview of [component] including design principles, components, and relationships (max 150 chars)"
+      }
+    ],
+    "clarity": [
+      {
+        "title": "Creating and Using Clarity Documentation",
+        "path": "/knowledge/conventions/creating-clarity-documentation.md",
+        "summary": "Step-by-step guide for creating and effectively using clarity documentation to capture questions, answers, and insights"
+      },
+      {
+        "title": "Clarity Documentation Index",
+        "path": "/knowledge/clarity/index.md",
+        "summary": "Central index of clarity documentation capturing questions, answers, and insights about various aspects of the Meatware framework"
+      }
+    ],
+    "documentation": [
+      {
+        "title": "Creating and Using Clarity Documentation",
+        "path": "/knowledge/conventions/creating-clarity-documentation.md",
+        "summary": "Step-by-step guide for creating and effectively using clarity documentation to capture questions, answers, and insights"
+      },
+      {
+        "title": "Knowledge Directory Guide",
+        "path": "/knowledge/README.md",
+        "summary": ""
+      },
+      {
+        "title": "2023-09-04: Changelog System Introduction",
+        "path": "/knowledge/changelog/2023-09-04-changelog-system-introduction.md",
+        "summary": "Introduction of the changelog system for tracking significant changes, decisions, and evolution of the framework"
+      },
+      {
+        "title": "Knowledge Management System",
+        "path": "/knowledge/architecture/knowledge-management-system.md",
+        "summary": "Architectural overview of the Knowledge Management System that organizes and structures information in the Meatware framework"
+      }
+    ],
+    "questions": [
+      {
+        "title": "Creating and Using Clarity Documentation",
+        "path": "/knowledge/conventions/creating-clarity-documentation.md",
+        "summary": "Step-by-step guide for creating and effectively using clarity documentation to capture questions, answers, and insights"
+      },
+      {
+        "title": "Clarity Documentation Index",
+        "path": "/knowledge/clarity/index.md",
+        "summary": "Central index of clarity documentation capturing questions, answers, and insights about various aspects of the Meatware framework"
+      }
+    ],
+    "answers": [
+      {
+        "title": "Creating and Using Clarity Documentation",
+        "path": "/knowledge/conventions/creating-clarity-documentation.md",
+        "summary": "Step-by-step guide for creating and effectively using clarity documentation to capture questions, answers, and insights"
+      },
+      {
+        "title": "Clarity Documentation Index",
+        "path": "/knowledge/clarity/index.md",
+        "summary": "Central index of clarity documentation capturing questions, answers, and insights about various aspects of the Meatware framework"
+      }
+    ],
+    "insights": [
+      {
+        "title": "Creating and Using Clarity Documentation",
+        "path": "/knowledge/conventions/creating-clarity-documentation.md",
+        "summary": "Step-by-step guide for creating and effectively using clarity documentation to capture questions, answers, and insights"
+      }
+    ],
+    "guide": [
+      {
+        "title": "Creating and Using Clarity Documentation",
+        "path": "/knowledge/conventions/creating-clarity-documentation.md",
+        "summary": "Step-by-step guide for creating and effectively using clarity documentation to capture questions, answers, and insights"
+      },
+      {
+        "title": "Changelog Directory Guide",
+        "path": "/knowledge/changelog/README.md",
+        "summary": ""
+      }
+    ],
+    "metadata": [
+      {
+        "title": "Metadata Format Reference",
+        "path": "/knowledge/conventions/metadata-format-reference.md",
+        "summary": "Reference documentation for metadata formats with detailed specifications and field definitions used throughout the framework"
+      },
+      {
+        "title": "Self-Navigation System Architecture",
+        "path": "/knowledge/architecture/navigation-system.md",
+        "summary": "Architectural overview of the self-navigation system that enables AI tools to navigate the framework independently."
+      }
+    ],
+    "yaml": [
+      {
+        "title": "Metadata Format Reference",
+        "path": "/knowledge/conventions/metadata-format-reference.md",
+        "summary": "Reference documentation for metadata formats with detailed specifications and field definitions used throughout the framework"
+      }
+    ],
+    "frontmatter": [
+      {
+        "title": "Metadata Format Reference",
+        "path": "/knowledge/conventions/metadata-format-reference.md",
+        "summary": "Reference documentation for metadata formats with detailed specifications and field definitions used throughout the framework"
+      },
+      {
+        "title": "Self-Navigation System Architecture",
+        "path": "/knowledge/architecture/navigation-system.md",
+        "summary": "Architectural overview of the self-navigation system that enables AI tools to navigate the framework independently."
+      }
+    ],
+    "format": [
+      {
+        "title": "Metadata Format Reference",
+        "path": "/knowledge/conventions/metadata-format-reference.md",
+        "summary": "Reference documentation for metadata formats with detailed specifications and field definitions used throughout the framework"
+      }
+    ],
+    "fields": [
+      {
+        "title": "Metadata Format Reference",
+        "path": "/knowledge/conventions/metadata-format-reference.md",
+        "summary": "Reference documentation for metadata formats with detailed specifications and field definitions used throughout the framework"
+      }
+    ],
+    "navigation": [
+      {
+        "title": "Metadata Format Reference",
+        "path": "/knowledge/conventions/metadata-format-reference.md",
+        "summary": "Reference documentation for metadata formats with detailed specifications and field definitions used throughout the framework"
+      },
+      {
+        "title": "Self-Navigation System Architecture",
+        "path": "/knowledge/architecture/navigation-system.md",
+        "summary": "Architectural overview of the self-navigation system that enables AI tools to navigate the framework independently."
+      }
+    ],
+    "knowledge": [
+      {
+        "title": "Knowledge Directory Guide",
+        "path": "/knowledge/README.md",
+        "summary": ""
+      },
+      {
+        "title": "Knowledge Directory Index",
+        "path": "/knowledge/index.md",
+        "summary": ""
+      },
+      {
+        "title": "Knowledge Management System",
+        "path": "/knowledge/architecture/knowledge-management-system.md",
+        "summary": "Architectural overview of the Knowledge Management System that organizes and structures information in the Meatware framework"
+      }
+    ],
+    "structure": [
+      {
+        "title": "Knowledge Directory Guide",
+        "path": "/knowledge/README.md",
+        "summary": ""
+      },
+      {
+        "title": "Clarity: Framework Directory Organization",
+        "path": "/knowledge/clarity/framework-structure/directory-organization.md",
+        "summary": "Questions and answers about the Meatware framework's directory organization, capturing insights about structure and hierarchy design"
+      },
+      {
+        "title": "Clarity: Core Framework Philosophy",
+        "path": "/knowledge/clarity/framework-structure/core-philosophy.md",
+        "summary": "Questions and answers about the Meatware framework's core philosophical principles, capturing insights about guiding concepts and values"
+      },
+      {
+        "title": "Architecture Knowledge Title",
+        "path": "/knowledge/architecture/_template.md",
+        "summary": "Architectural overview of [component] including design principles, components, and relationships (max 150 chars)"
+      },
+      {
+        "title": "Architecture Knowledge Index",
+        "path": "/knowledge/architecture/index.md",
+        "summary": ""
+      }
+    ],
+    "organization": [
+      {
+        "title": "Knowledge Directory Guide",
+        "path": "/knowledge/README.md",
+        "summary": ""
+      },
+      {
+        "title": "Clarity: Framework Directory Organization",
+        "path": "/knowledge/clarity/framework-structure/directory-organization.md",
+        "summary": "Questions and answers about the Meatware framework's directory organization, capturing insights about structure and hierarchy design"
+      },
+      {
+        "title": "Knowledge Directory Index",
+        "path": "/knowledge/index.md",
+        "summary": ""
+      },
+      {
+        "title": "Knowledge Management System",
+        "path": "/knowledge/architecture/knowledge-management-system.md",
+        "summary": "Architectural overview of the Knowledge Management System that organizes and structures information in the Meatware framework"
+      }
+    ],
+    "integration": [
+      {
+        "title": "Integration Title",
+        "path": "/knowledge/integrations/_template.md",
+        "summary": "Integration documentation for [external system] including connection details, authentication, and usage patterns (max 150 chars)"
+      }
+    ],
+    "external": [
+      {
+        "title": "Integration Title",
+        "path": "/knowledge/integrations/_template.md",
+        "summary": "Integration documentation for [external system] including connection details, authentication, and usage patterns (max 150 chars)"
+      }
+    ],
+    "system": [
+      {
+        "title": "Integration Title",
+        "path": "/knowledge/integrations/_template.md",
+        "summary": "Integration documentation for [external system] including connection details, authentication, and usage patterns (max 150 chars)"
+      }
+    ],
+    "changelog": [
+      {
+        "title": "Changelog Directory Guide",
+        "path": "/knowledge/changelog/README.md",
+        "summary": ""
+      },
+      {
+        "title": "2023-09-04: Changelog System Introduction",
+        "path": "/knowledge/changelog/2023-09-04-changelog-system-introduction.md",
+        "summary": "Introduction of the changelog system for tracking significant changes, decisions, and evolution of the framework"
+      },
+      {
+        "title": "Changelog System Index",
+        "path": "/knowledge/changelog/index.md",
+        "summary": ""
+      }
+    ],
+    "history": [
+      {
+        "title": "Changelog Directory Guide",
+        "path": "/knowledge/changelog/README.md",
+        "summary": ""
+      },
+      {
+        "title": "2023-09-04: Changelog System Introduction",
+        "path": "/knowledge/changelog/2023-09-04-changelog-system-introduction.md",
+        "summary": "Introduction of the changelog system for tracking significant changes, decisions, and evolution of the framework"
+      },
+      {
+        "title": "Changelog System Index",
+        "path": "/knowledge/changelog/index.md",
+        "summary": ""
+      }
+    ],
+    "directory": [
+      {
+        "title": "Changelog Directory Guide",
+        "path": "/knowledge/changelog/README.md",
+        "summary": ""
+      },
+      {
+        "title": "Clarity: Framework Directory Organization",
+        "path": "/knowledge/clarity/framework-structure/directory-organization.md",
+        "summary": "Questions and answers about the Meatware framework's directory organization, capturing insights about structure and hierarchy design"
+      },
+      {
+        "title": "Knowledge Directory Index",
+        "path": "/knowledge/index.md",
+        "summary": ""
+      }
+    ],
+    "introduction": [
+      {
+        "title": "2023-09-04: Changelog System Introduction",
+        "path": "/knowledge/changelog/2023-09-04-changelog-system-introduction.md",
+        "summary": "Introduction of the changelog system for tracking significant changes, decisions, and evolution of the framework"
+      }
+    ],
+    "changes": [
+      {
+        "title": "Changelog System Index",
+        "path": "/knowledge/changelog/index.md",
+        "summary": ""
+      }
+    ],
+    "decisions": [
+      {
+        "title": "Changelog System Index",
+        "path": "/knowledge/changelog/index.md",
+        "summary": ""
+      }
+    ],
+    "folder": [
+      {
+        "title": "Clarity: Framework Directory Organization",
+        "path": "/knowledge/clarity/framework-structure/directory-organization.md",
+        "summary": "Questions and answers about the Meatware framework's directory organization, capturing insights about structure and hierarchy design"
+      }
+    ],
+    "hierarchy": [
+      {
+        "title": "Clarity: Framework Directory Organization",
+        "path": "/knowledge/clarity/framework-structure/directory-organization.md",
+        "summary": "Questions and answers about the Meatware framework's directory organization, capturing insights about structure and hierarchy design"
+      }
+    ],
+    "philosophy": [
+      {
+        "title": "Clarity: Core Framework Philosophy",
+        "path": "/knowledge/clarity/framework-structure/core-philosophy.md",
+        "summary": "Questions and answers about the Meatware framework's core philosophical principles, capturing insights about guiding concepts and values"
+      }
+    ],
+    "principles": [
+      {
+        "title": "Clarity: Core Framework Philosophy",
+        "path": "/knowledge/clarity/framework-structure/core-philosophy.md",
+        "summary": "Questions and answers about the Meatware framework's core philosophical principles, capturing insights about guiding concepts and values"
+      }
+    ],
+    "concepts": [
+      {
+        "title": "Clarity: Core Framework Philosophy",
+        "path": "/knowledge/clarity/framework-structure/core-philosophy.md",
+        "summary": "Questions and answers about the Meatware framework's core philosophical principles, capturing insights about guiding concepts and values"
+      }
+    ],
+    "transparency": [
+      {
+        "title": "Clarity: Core Framework Philosophy",
+        "path": "/knowledge/clarity/framework-structure/core-philosophy.md",
+        "summary": "Questions and answers about the Meatware framework's core philosophical principles, capturing insights about guiding concepts and values"
+      }
+    ],
+    "understanding": [
+      {
+        "title": "Clarity Documentation Index",
+        "path": "/knowledge/clarity/index.md",
+        "summary": "Central index of clarity documentation capturing questions, answers, and insights about various aspects of the Meatware framework"
+      }
+    ],
+    "knowledge base": [
+      {
+        "title": "Clarity Documentation Index",
+        "path": "/knowledge/clarity/index.md",
+        "summary": "Central index of clarity documentation capturing questions, answers, and insights about various aspects of the Meatware framework"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Clarity: AI Collaboration Patterns",
+        "path": "/knowledge/clarity/usage-patterns/ai-collaboration.md",
+        "summary": "Questions and answers about effective collaboration patterns between humans and AI tools within the Meatware framework"
+      }
+    ],
+    "collaboration": [
+      {
+        "title": "Clarity: AI Collaboration Patterns",
+        "path": "/knowledge/clarity/usage-patterns/ai-collaboration.md",
+        "summary": "Questions and answers about effective collaboration patterns between humans and AI tools within the Meatware framework"
+      }
+    ],
+    "interaction": [
+      {
+        "title": "Clarity: AI Collaboration Patterns",
+        "path": "/knowledge/clarity/usage-patterns/ai-collaboration.md",
+        "summary": "Questions and answers about effective collaboration patterns between humans and AI tools within the Meatware framework"
+      }
+    ],
+    "prompting": [
+      {
+        "title": "Clarity: AI Collaboration Patterns",
+        "path": "/knowledge/clarity/usage-patterns/ai-collaboration.md",
+        "summary": "Questions and answers about effective collaboration patterns between humans and AI tools within the Meatware framework"
+      }
+    ],
+    "context": [
+      {
+        "title": "Clarity: AI Collaboration Patterns",
+        "path": "/knowledge/clarity/usage-patterns/ai-collaboration.md",
+        "summary": "Questions and answers about effective collaboration patterns between humans and AI tools within the Meatware framework"
+      }
+    ],
+    "package": [
+      {
+        "title": "Clarity: Package Architecture",
+        "path": "/knowledge/clarity/technical-implementation/package-architecture.md",
+        "summary": "Questions and answers about the Meatware framework's package architecture, capturing insights about structure and deployment strategy"
+      }
+    ],
+    "npm": [
+      {
+        "title": "Clarity: Package Architecture",
+        "path": "/knowledge/clarity/technical-implementation/package-architecture.md",
+        "summary": "Questions and answers about the Meatware framework's package architecture, capturing insights about structure and deployment strategy"
+      }
+    ],
+    "architecture": [
+      {
+        "title": "Clarity: Package Architecture",
+        "path": "/knowledge/clarity/technical-implementation/package-architecture.md",
+        "summary": "Questions and answers about the Meatware framework's package architecture, capturing insights about structure and deployment strategy"
+      },
+      {
+        "title": "Architecture Knowledge Title",
+        "path": "/knowledge/architecture/_template.md",
+        "summary": "Architectural overview of [component] including design principles, components, and relationships (max 150 chars)"
+      },
+      {
+        "title": "Architecture Knowledge Index",
+        "path": "/knowledge/architecture/index.md",
+        "summary": ""
+      },
+      {
+        "title": "Cross-Referencing Architecture",
+        "path": "/knowledge/architecture/cross-referencing.md",
+        "summary": "Architectural overview of the cross-referencing system that connects documents throughout the framework."
+      }
+    ],
+    "deployment": [
+      {
+        "title": "Clarity: Package Architecture",
+        "path": "/knowledge/clarity/technical-implementation/package-architecture.md",
+        "summary": "Questions and answers about the Meatware framework's package architecture, capturing insights about structure and deployment strategy"
+      }
+    ],
+    "installation": [
+      {
+        "title": "Clarity: Package Architecture",
+        "path": "/knowledge/clarity/technical-implementation/package-architecture.md",
+        "summary": "Questions and answers about the Meatware framework's package architecture, capturing insights about structure and deployment strategy"
+      }
+    ],
+    "index": [
+      {
+        "title": "Knowledge Directory Index",
+        "path": "/knowledge/index.md",
+        "summary": ""
+      }
+    ],
+    "design": [
+      {
+        "title": "Architecture Knowledge Title",
+        "path": "/knowledge/architecture/_template.md",
+        "summary": "Architectural overview of [component] including design principles, components, and relationships (max 150 chars)"
+      },
+      {
+        "title": "Architecture Knowledge Index",
+        "path": "/knowledge/architecture/index.md",
+        "summary": ""
+      }
+    ],
+    "management": [
+      {
+        "title": "Knowledge Management System",
+        "path": "/knowledge/architecture/knowledge-management-system.md",
+        "summary": "Architectural overview of the Knowledge Management System that organizes and structures information in the Meatware framework"
+      }
+    ],
+    "categorization": [
+      {
+        "title": "Knowledge Management System",
+        "path": "/knowledge/architecture/knowledge-management-system.md",
+        "summary": "Architectural overview of the Knowledge Management System that organizes and structures information in the Meatware framework"
+      }
+    ],
+    "patterns": [
+      {
+        "title": "Architecture Knowledge Index",
+        "path": "/knowledge/architecture/index.md",
+        "summary": ""
+      }
+    ],
+    "self-guiding": [
+      {
+        "title": "Self-Navigation System Architecture",
+        "path": "/knowledge/architecture/navigation-system.md",
+        "summary": "Architectural overview of the self-navigation system that enables AI tools to navigate the framework independently."
+      }
+    ],
+    "cross-reference": [
+      {
+        "title": "Cross-Referencing Architecture",
+        "path": "/knowledge/architecture/cross-referencing.md",
+        "summary": "Architectural overview of the cross-referencing system that connects documents throughout the framework."
+      }
+    ],
+    "linking": [
+      {
+        "title": "Cross-Referencing Architecture",
+        "path": "/knowledge/architecture/cross-referencing.md",
+        "summary": "Architectural overview of the cross-referencing system that connects documents throughout the framework."
+      }
+    ],
+    "relationships": [
+      {
+        "title": "Cross-Referencing Architecture",
+        "path": "/knowledge/architecture/cross-referencing.md",
+        "summary": "Architectural overview of the cross-referencing system that connects documents throughout the framework."
+      }
+    ],
+    "api": [
+      {
+        "title": "API Knowledge Title",
+        "path": "/knowledge/api/_template.md",
+        "summary": "API documentation for [API name] including endpoints, parameters, and usage examples (max 150 chars)"
+      }
+    ],
+    "endpoint": [
+      {
+        "title": "API Knowledge Title",
+        "path": "/knowledge/api/_template.md",
+        "summary": "API documentation for [API name] including endpoints, parameters, and usage examples (max 150 chars)"
+      }
+    ],
+    "keyword3": [
+      {
+        "title": "API Knowledge Title",
+        "path": "/knowledge/api/_template.md",
+        "summary": "API documentation for [API name] including endpoints, parameters, and usage examples (max 150 chars)"
+      }
+    ]
+  }
+}

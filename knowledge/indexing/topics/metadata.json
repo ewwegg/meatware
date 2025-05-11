@@ -1,0 +1,67 @@
+{
+  "index_type": "topics",
+  "index_name": "metadata",
+  "created": "2025-05-11",
+  "updated": "2025-05-11",
+  "count": 2,
+  "entries": [
+    {
+      "title": "Metadata Format Reference",
+      "path": "/knowledge/conventions/metadata-format-reference.md",
+      "created": "2023-09-04",
+      "updated": "2023-09-04",
+      "version": "0.1.0",
+      "status": "active",
+      "summary": "Reference documentation for metadata formats with detailed specifications and field definitions used throughout the framework",
+      "tags": [
+        "metadata",
+        "yaml",
+        "frontmatter",
+        "convention",
+        "navigation",
+        "reference"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "metadata",
+        "yaml",
+        "frontmatter",
+        "format",
+        "fields",
+        "navigation"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "convention"
+    },
+    {
+      "title": "Self-Navigation System Architecture",
+      "path": "/knowledge/architecture/navigation-system.md",
+      "created": "2023-09-02",
+      "updated": "2023-09-02",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "Architectural overview of the self-navigation system that enables AI tools to navigate the framework independently.",
+      "tags": [
+        "navigation",
+        "architecture",
+        "metadata",
+        "self-guiding"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "navigation",
+        "metadata",
+        "self-guiding",
+        "frontmatter"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "architecture"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "index_type": "topics",
+  "index_name": "cross-referencing",
+  "created": "2025-05-11",
+  "updated": "2025-05-11",
+  "count": 1,
+  "entries": [
+    {
+      "title": "Cross-Referencing Architecture",
+      "path": "/knowledge/architecture/cross-referencing.md",
+      "created": "2023-09-03",
+      "updated": "2023-09-03",
+      "version": "0.1.0",
+      "status": "draft",
+      "summary": "Architectural overview of the cross-referencing system that connects documents throughout the framework.",
+      "tags": [
+        "cross-referencing",
+        "architecture",
+        "linking",
+        "relationships"
+      ],
+      "authors": [
+        "Meatware Team"
+      ],
+      "navigation_priority": "high",
+      "navigation_keywords": [
+        "cross-reference",
+        "architecture",
+        "linking",
+        "relationships"
+      ],
+      "category": "knowledge",
+      "knowledge_type": "architecture"
+    }
+  ]
+}
