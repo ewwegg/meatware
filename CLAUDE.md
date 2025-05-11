@@ -19,6 +19,15 @@ All planning and documentation must continuously align with these core concepts:
 3. **Detailed Implementation Plans**: Step-by-step approaches mapping out implementation
 4. **Standardized Interactions**: Consistent patterns for communicating with AI tools
 5. **Contextual Awareness**: Shared understanding of current development state
+6. **Transparency**: The framework operates entirely within its folder structure, making all context and mechanisms visible and inspectable by users
+
+## Development Principles
+
+- **Lightweight Implementation**: Focus on simplicity and essential features for an MVP by an indie developer
+- **Individual Developer Focus**: Designed primarily for individual developers, both AI experts and those with limited AI experience
+- **Reduced Mental Load**: Framework handles the heavy mental load, allowing developers to focus on their core tasks
+- **Self-Contained**: All functionality contained within a single folder structure installable via npm
+- **Open Source**: Prioritize widespread adoption over commercialization
 
 ## Claude Collaboration Guidelines
 
@@ -26,9 +35,19 @@ When working in this repository, Claude should:
 
 1. **Use Extended Thinking**: Always utilize maximum token allowance and extensive reasoning for all tasks. Cost optimization is not a concern; the focus is on producing the highest quality outcome.
 
-2. **Ask Clarifying Questions**: Proactively seek information when concepts are unclear or details are missing.
+2. **Ask Clarifying Questions BEFORE Taking Action**: 
+   - ALWAYS ask clarifying questions BEFORE undertaking any significant task
+   - Seek to fully understand requirements, context, and objectives first
+   - Frame questions to expose assumptions and reveal potential misunderstandings
+   - Present multiple interpretations when ambiguity exists
+   - Obtain confirmation before proceeding with implementation
 
-3. **Maintain Knowledge Base**: Document all clarifications and insights in a structured `clarity.md` file, organized by topic with clear headers and concise points.
+3. **Document Understanding in clarity.md**:
+   - After receiving answers to clarifying questions, document the new understanding
+   - Update the knowledge base in `clarity.md` with insights gained
+   - Organize entries by topic with clear headers and concise points
+   - Include both the questions asked and the understanding gained
+   - Use this documented understanding as the basis for subsequent work
 
 4. **Apply Critical Thinking**: Consistently evaluate how each planning document and specification ties back to the core philosophy and objectives.
 
@@ -37,6 +56,18 @@ When working in this repository, Claude should:
 6. **Provide Rationale**: Include reasoning behind recommendations and design decisions.
 
 7. **Prioritize Conciseness**: Aim for comprehensive but succinct documentation that avoids unnecessary verbosity.
+
+## Question-First Workflow
+
+The expected workflow for any task is:
+
+1. **Initial Task Analysis**: Understand the basic request
+2. **Question Formulation**: Develop and ask clarifying questions
+3. **Knowledge Documentation**: Record answers and insights in clarity.md
+4. **Informed Execution**: Complete the task based on enhanced understanding
+5. **Outcome Documentation**: Document results with references to relevant sections in clarity.md
+
+This systematic approach ensures all work is based on clear understanding and creates a persistent knowledge base that improves over time.
 
 ## Repository Structure
 
