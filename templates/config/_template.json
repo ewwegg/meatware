@@ -1,0 +1,44 @@
+{
+  "// This is a template for configuration files in the Meatware framework": "",
+  "// Replace this comment with actual configuration keys and values": "",
+  
+  "// Core section - Basic framework settings": "",
+  "core": {
+    "version": "0.1.0",
+    "environment": "development",
+    "logLevel": "info"
+  },
+  
+  "// Features section - Enable/disable specific features": "",
+  "features": {
+    "featureA": true,
+    "featureB": false
+  },
+  
+  "// Paths section - Configure important file paths": "",
+  "paths": {
+    "knowledgeDir": "/knowledge",
+    "specificationDir": "/specification",
+    "implementationDir": "/implementation"
+  },
+  
+  "// Integration section - Settings for external tool integration": "",
+  "integration": {
+    "toolName": {
+      "apiKey": "REPLACE_WITH_ACTUAL_KEY",
+      "endpoint": "https://example.com/api",
+      "timeout": 30000
+    }
+  },
+  
+  "// Extensions section - Custom extensions or plugins": "",
+  "extensions": {
+    "extensionName": {
+      "enabled": true,
+      "settings": {
+        "setting1": "value1",
+        "setting2": "value2"
+      }
+    }
+  }
+}
